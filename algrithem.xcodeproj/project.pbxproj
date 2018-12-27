@@ -23,8 +23,18 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		180FD19521807B9F00414CE5 /* MaxSubString.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MaxSubString.h; sourceTree = "<group>"; };
+		180FD1962180A25E00414CE5 /* MaxSum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MaxSum.h; sourceTree = "<group>"; };
+		18182B0221883D0500E92A8F /* QuickSort.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QuickSort.h; sourceTree = "<group>"; };
+		1848ECCC21848860000B4A29 /* MergeSort.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MergeSort.h; sourceTree = "<group>"; };
+		18748D21218B45D300FFBCCD /* PolygonGame.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PolygonGame.h; sourceTree = "<group>"; };
 		1893167A2170C8B6008AB4C3 /* algrithem */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algrithem; sourceTree = BUILT_PRODUCTS_DIR; };
 		1893167D2170C8B6008AB4C3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		189316842170C8CB008AB4C3 /* BinarySearch.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BinarySearch.h; sourceTree = "<group>"; };
+		1895708A21833A73005BD2C2 /* MatrixMutiply.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MatrixMutiply.h; sourceTree = "<group>"; };
+		18AA108521A9710E00650EC4 /* Agenda.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Agenda.h; sourceTree = "<group>"; };
+		18BAB7C021760C6000E7DEDE /* ChessBoard.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ChessBoard.h; sourceTree = "<group>"; };
+		18E3C09E2189E2D8006741AA /* Knapsack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Knapsack.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +67,17 @@
 		1893167C2170C8B6008AB4C3 /* algrithem */ = {
 			isa = PBXGroup;
 			children = (
+				1895708A21833A73005BD2C2 /* MatrixMutiply.h */,
 				1893167D2170C8B6008AB4C3 /* main.cpp */,
+				18748D21218B45D300FFBCCD /* PolygonGame.h */,
+				189316842170C8CB008AB4C3 /* BinarySearch.h */,
+				18BAB7C021760C6000E7DEDE /* ChessBoard.h */,
+				180FD19521807B9F00414CE5 /* MaxSubString.h */,
+				180FD1962180A25E00414CE5 /* MaxSum.h */,
+				1848ECCC21848860000B4A29 /* MergeSort.h */,
+				18182B0221883D0500E92A8F /* QuickSort.h */,
+				18E3C09E2189E2D8006741AA /* Knapsack.h */,
+				18AA108521A9710E00650EC4 /* Agenda.h */,
 			);
 			path = algrithem;
 			sourceTree = "<group>";

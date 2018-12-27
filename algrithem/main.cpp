@@ -7,9 +7,23 @@
 //
 
 #include <iostream>
+#include "BinarySearch.h"
+#include "ChessBoard.h"
+#include "MatrixMutiply.h"
+#include "MaxSubString.h"
+#include "MaxSum.h"
+#include "PolygonGame.h"
+#include "MergeSort.h"
+#include"QuickSort.h"
+#include "Knapsack.h"
+#include"Agenda.h"
+using namespace std;
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+
+    int n=7;
+    Agenda a=*new Agenda(n);
+    a.Output();
+    
     return 0;
 }
